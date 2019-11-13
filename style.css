@@ -1,1 +1,48 @@
+header{
+  background-color: darkgrey;
+  height: 125px;
+  margin: 15px;
+}
+#logo-pic {
+  vertical-align: middle;
+}
+nav {
+  padding-top:10px;
+}
+ul {
+  text-align: center;
+}
+li {
+  display: inline;
+  margin-left: 9%;
+  margin-right: 5%;
+}
+li, a {
+  text-decoration: none;
+}
+body {
+  text-align: center;
+}
+img {
+  margin: 15px;
+}
+#row2 {
+display: inline;
+}
+#lorem-paragraph {
+  display: inline-block;
+  height: 370px;
+  width: 450px;
+  margin: 15px;
+}
+article, p{
+  overflow: scroll;
+}
 
+button {
+  margin: 15px;
+}footer {
+  background-color: darkgrey;
+  height: 125px;
+  margin: 15px;
+}
